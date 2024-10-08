@@ -30,3 +30,4 @@ An algorithm is a set of steps to solve a problem or complete a task.
 - **Home Page**: Shows the list of tasks and a form to add new tasks.
 - **Completed
 7. https://github.com/maryamghm
+ 
