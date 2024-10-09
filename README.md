@@ -1,3 +1,16 @@
+
+# collaborating
+
+## Maryam's Bio:
+Hi, I'm Maryam. I'm a software engineer with a background in AI, and I love coding and cooking.
+
+## Recipe: Pancakes
+- Ingredients: flour, eggs, milk, sugar, butter
+- Steps: Mix ingredients, cook on a hot pan until golden.
+
+## Word Definition: Algorithm
+An algorithm is a set of steps to solve a problem or complete a task.
+
 1. Simple To-Do App
 2. Features:
 - Add and remove tasks.
@@ -18,3 +31,4 @@
 - **Home Page**: Shows the list of tasks and a form to add new tasks.
 - **Completed
 7. https://github.com/maryamghm
+
