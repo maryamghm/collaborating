@@ -1,6 +1,19 @@
 
 # collaborating
 
+## Aron's Bio:
+Hi! My name is Aron, I'm a logistics engineer, I have 10+ years of experience in creating warehouses and training/Mentoring Team-Leaders. I enjoy parachute jumps from airplanes
+
+## Recipe: Sandwitch with cheese and ketchup
+-Ingredients: Bread, Ketchup
+-Steps: The the Ketchup, and write chesee on a piece of bread. Ready to eat. Enjoy!
+
+## Word Definition: Teacher
+A person who helps you solve problems you'd never have without them
+
+
+# collaborating
+
 ## Maryam's Bio:
 Hi, I'm Maryam. I'm a software engineer with a background in AI, and I love coding and cooking.
 
